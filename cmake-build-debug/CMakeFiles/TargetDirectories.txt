@@ -1,3 +1,0 @@
-/Users/hania/CLionProjects/Currency_Conversion_System/cmake-build-debug/CMakeFiles/Currency_Conversion_System.dir
-/Users/hania/CLionProjects/Currency_Conversion_System/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/hania/CLionProjects/Currency_Conversion_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
